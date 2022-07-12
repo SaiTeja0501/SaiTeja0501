@@ -4,8 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Sai Teja</h1>
 <h3 align="center">A passionate Programmer from India</h3>
-
-<img align="right" alt="Coding" width="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
+<img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiteja0501&label=Profile%20views&color=0e75b6&style=flat" alt="saiteja0501" /> </p>
 
